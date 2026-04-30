@@ -304,25 +304,3 @@ Add your project screenshots here:
 ## 👨‍💻 Author
 
 Developed by **Udit Narayan Pandey**
-
-B.Tech IT Student | Full Stack Developer | Problem Solver 🚀
-
----
-
-## ⭐ Future Improvements
-
-* Real-time notifications
-* Socket.IO live updates
-* File attachments
-* Comments on tasks
-* Email reminders
-* Dark mode
-* Activity logs
-* Advanced analytics
-* Calendar integration
-
----
-
-## 📜 License
-
-This project is for educational and portfolio purposes.
